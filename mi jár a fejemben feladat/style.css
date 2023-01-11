@@ -1,0 +1,27 @@
+body{
+    width: 99vw;
+    height: 98vh;
+    padding: 0px;
+    display: flex;
+    background-color: skyblue;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.tehen{
+    width: 300px;
+}
+.traktor{
+    width: 300px;
+}
+#fu{
+    height: 20%;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(25, 146, 1);
+}
+#szoveg{
+    width: 100%;
+    text-align: center;    
+    font-size: 36px;
+    
+}
